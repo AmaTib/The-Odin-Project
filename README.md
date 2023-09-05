@@ -1,2 +1,2 @@
 # odin_landingproject
-Create a website from a set design.
+assignment is to Create a website from a set design.
